@@ -18,8 +18,8 @@ LONG_SONG_WEIGHT = 1
 
 
 cid ="69457297a5cc42a4a9b19ba477558210"
-secret = "b8df8b59a120497eb7667bdb881058b7"
-username = "dylrobinson22"
+secret = ""
+username = ""
 
 def getSP():
 
