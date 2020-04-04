@@ -7,8 +7,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
 
 cid ="69457297a5cc42a4a9b19ba477558210"
-secret = "b8df8b59a120497eb7667bdb881058b7"
-username = "dylrobinson22"
+secret = ""
+username = ""
 
 def prompt_for_user_token(username, scope=None, client_id = None,
         client_secret = None, redirect_uri = None, cache_path = None):
